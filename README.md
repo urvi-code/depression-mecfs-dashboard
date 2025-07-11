@@ -1,4 +1,8 @@
-# depression-mecfs-dashboard
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](NEW%20SCREENSHOT2025-07-10%20165920.png)
+
+
 Power BI project analyzing Depression and ME/CFS data by age and gender.
 # Depression and ME/CFS Power BI Dashboard
 
