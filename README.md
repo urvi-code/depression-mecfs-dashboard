@@ -1,12 +1,10 @@
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](NEW%20SCREENSHOT2025-07-10%20165920.png)
-
-
-Power BI project analyzing Depression and ME/CFS data by age and gender.
 # Depression and ME/CFS Power BI Dashboard
 
 This project analyzes depression and ME/CFS cases across age groups and gender using Power BI visuals.
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](NEW%20SCREENSHOT2025-07-10%20165920.png)
 
 ## 🛠 Tools Used
 - Power BI
@@ -22,3 +20,4 @@ This project analyzes depression and ME/CFS cases across age groups and gender u
 - PBIX File: Dashboard file
 - Excel Dataset
 - PNG: Dashboard screenshot
+
